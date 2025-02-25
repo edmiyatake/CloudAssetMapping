@@ -16,7 +16,6 @@ A well-maintained asset inventory is essential for effective cloud governance. W
 
 ## Risk Mitigation & Compliance
 
-
 Many cloud services handle sensitive university data, including student records, research information, and financial data. Ensuring that these services are properly secured helps UCI comply with regulatory requirements such as FERPA, HIPAA, and GDPR. Furthermore, identifying domains associated with these services helps prevent phishing attacks and unauthorized access to university resources.
 
 ## Cloud Provider Usage & Third-Party Dependencies
