@@ -1,8 +1,8 @@
-**Objective
+#Objective
 
 This report documents the methodology, tools, findings, and security analysis of publicly exposed cloud application assets associated with the University of California, Irvine (UCI). The goal is to map UCI’s cloud presence and identify potential risks.
 
-Importance of Identifying UCI’s Cloud Services and Associated Domains
+Importance of Identifying UCI’s Cloud Services and Associated Domains \n
 Understanding the cloud services that the University of California, Irvine (UCI) operates, along with their associated domains, is a critical step in assessing security, managing assets, and mitigating risks. This verification process ensures that the university maintains a secure and well-governed cloud infrastructure.
 
 Security Assessment & Attack Surface Management
